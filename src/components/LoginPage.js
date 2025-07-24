@@ -164,7 +164,7 @@ function LoginPage() {
             <strong>Account 1:</strong> 226K1A0545 | Password: aman123
           </div>
           <div className="demo-account">
-            <strong>Account 2:</strong> 216K1A0503 | Password: Abhi@123
+            <strong>Account 2:</strong> 216K1A0503 | Password: Abhi123
           </div>
         </div>
         <div className="auth-link-row">
